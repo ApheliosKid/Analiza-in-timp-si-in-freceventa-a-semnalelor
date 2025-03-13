@@ -1,0 +1,1 @@
+-force-include-file "histograma.h";"e:\APD PROIECT an 3\histograma.h" -force-include-file "proiect.c";"e:\APD PROIECT an 3\proiect.c" 

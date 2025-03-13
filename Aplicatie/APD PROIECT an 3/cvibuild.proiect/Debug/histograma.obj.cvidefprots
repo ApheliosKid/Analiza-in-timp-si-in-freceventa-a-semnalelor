@@ -1,0 +1,5 @@
+[main]
+Class="Function"
+Prototype="int main(int argc, char *argv[]);"
+SourceLocation="d:\APD PROIECT an 3\histograma.c:7:5"
+

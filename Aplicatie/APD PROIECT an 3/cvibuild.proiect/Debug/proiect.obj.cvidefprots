@@ -1,0 +1,120 @@
+[main]
+Class="Function"
+Prototype="int main(int argc, char *argv[]);"
+SourceLocation="e:\APD PROIECT an 3\proiect.c:26:5"
+
+[OnExit]
+Class="Function"
+Prototype="int OnExit(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="e:\APD PROIECT an 3\proiect.c:47:17"
+
+[OnLoadButtonCB]
+Class="Function"
+Prototype="int OnLoadButtonCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="e:\APD PROIECT an 3\proiect.c:111:17"
+
+[FiltruOrdinI]
+Class="Function"
+Prototype="void FiltruOrdinI(double *signal, double *filt, int npoints, double alpha);"
+SourceLocation="e:\APD PROIECT an 3\proiect.c:217:6"
+
+[FiltruPrinMediere]
+Class="Function"
+Prototype="void FiltruPrinMediere(double *inputData, double *outputData, int dataLength, int windowSize);"
+SourceLocation="e:\APD PROIECT an 3\proiect.c:224:6"
+
+[FilterCommandButton]
+Class="Function"
+Prototype="int FilterCommandButton(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="e:\APD PROIECT an 3\proiect.c:250:17"
+
+[OnFilterTypeChanged]
+Class="Function"
+Prototype="int OnFilterTypeChanged(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="e:\APD PROIECT an 3\proiect.c:297:17"
+
+[PlotCurrentSegment]
+Class="Function"
+Prototype="void PlotCurrentSegment(int panel);"
+SourceLocation="e:\APD PROIECT an 3\proiect.c:319:6"
+
+[OnPrev]
+Class="Function"
+Prototype="int OnPrev(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="e:\APD PROIECT an 3\proiect.c:358:17"
+
+[OnNext]
+Class="Function"
+Prototype="int OnNext(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="e:\APD PROIECT an 3\proiect.c:381:17"
+
+[SaveButton]
+Class="Function"
+Prototype="int SaveButton(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="e:\APD PROIECT an 3\proiect.c:404:17"
+
+[OnEnvelopeButton]
+Class="Function"
+Prototype="int OnEnvelopeButton(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="e:\APD PROIECT an 3\proiect.c:429:17"
+
+[calculateHistogram]
+Class="Function"
+Prototype="void calculateHistogram();"
+SourceLocation="e:\APD PROIECT an 3\proiect.c:475:6"
+
+[ShowHistogramButton]
+Class="Function"
+Prototype="int ShowHistogramButton(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="e:\APD PROIECT an 3\proiect.c:492:17"
+
+[OnSwitchPanelCB]
+Class="Function"
+Prototype="int OnSwitchPanelCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="e:\APD PROIECT an 3\proiect.c:505:17"
+
+[OnFFTSizeChange]
+Class="Function"
+Prototype="int OnFFTSizeChange(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="e:\APD PROIECT an 3\proiect.c:528:17"
+
+[ApplyWindow]
+Class="Function"
+Prototype="void ApplyWindow(double *signal, int N, int windowType, double *output);"
+SourceLocation="e:\APD PROIECT an 3\proiect.c:537:6"
+
+[WindowCommandButton]
+Class="Function"
+Prototype="int WindowCommandButton(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="e:\APD PROIECT an 3\proiect.c:564:17"
+
+[ComputePowerSpectrum]
+Class="Function"
+Prototype="int ComputePowerSpectrum(double inputArray[], unsigned int numberOfElements, double samplingRate, double convertedSpectrum[], double *frequencyInterval, double *powerPeak, double *freqPeak);"
+SourceLocation="e:\APD PROIECT an 3\proiect.c:595:5"
+
+[DesignBesselBandpass]
+Class="Function"
+Prototype="void DesignBesselBandpass(double *h, int N, double f1, double f2, double fs);"
+SourceLocation="e:\APD PROIECT an 3\proiect.c:608:6"
+
+[DesignEquirippleBandpass]
+Class="Function"
+Prototype="void DesignEquirippleBandpass(double *h, int N, double f1, double f2, double fs);"
+SourceLocation="e:\APD PROIECT an 3\proiect.c:618:6"
+
+[OnTimerTick]
+Class="Function"
+Prototype="int OnTimerTick(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="e:\APD PROIECT an 3\proiect.c:631:17"
+
+[OnSwitch]
+Class="Function"
+Prototype="int OnSwitch(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="e:\APD PROIECT an 3\proiect.c:727:17"
+
+[SaveCB]
+Class="Function"
+Prototype="int SaveCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="e:\APD PROIECT an 3\proiect.c:741:17"
+
